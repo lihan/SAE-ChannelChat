@@ -1,0 +1,7 @@
+name: channelchat
+version: 1
+
+
+handlers:
+- url: /static
+  static_dir: channelchat/static/
